@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Giovani 🤓💻☕ </h1>
 
-<!--
-**xxgicoxx/xxgicoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> I'm a Full-Stack Developer </h3> <br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+<a href="https://www.linkedin.com/in/giovani-henrique-462315117/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Giovani_de_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovani-henrique-462315117/"></a>
+<a href="https://github.com/xxgicoxx"><img alt="Github" src="https://img.shields.io/badge/-xxgicoxx-black?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/giovani-henrique-462315117/"></a>
+<a href="https://medium.com/@giovanioliveira_"><img alt="Medium" src="https://img.shields.io/badge/-Giovani_de_Oliveira-black?style=flat-square&logo=Medium&logoColor=white&link=https://www.linkedin.com/in/giovani-henrique-462315117/"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📜 About
+-  **Working :**  Web Development :computer:
+-  **E-mail :**  [giovanioliveira@outlook.com.br](mailto:giovanioliveira@outlook.com.br?subject=[GitHub]%20Source%20Han%20Sans) :email:
+-  **Hobbies :** Running :running: | Games :space_invader: | Movies :tv:
+---
+
+### 📊 Profile stats 
+
+<p align="center">
+    <a href="https://github.com/xxgicoxx">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxgicoxx" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/xxgicoxx">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxgicoxx&show_icons=true&theme=dracula" />
+    </a>
+</p>
