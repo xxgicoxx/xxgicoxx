@@ -10,13 +10,23 @@
 
 ---
 
-### 📜 About
--  **Working :**  Web Development :computer:
--  **E-mail :**  [giovanioliveira@outlook.com.br](mailto:giovanioliveira@outlook.com.br?subject=[GitHub]%20Source%20Han%20Sans) :email:
--  **Hobbies :** Running :running: | Games :space_invader: | Movies :tv:
+### 📜 I'm Currently
+
+- 👨‍💻 Full Stack Developer.
+- ☕ Working with Ionic, Node.js, Java.
+- 📚 Learning Serverless.
+
+### 🏃‍♂️ Hobbies
+
+- 🎮 Games
+- 📺 Movies
+
+### 📞 Contact
+
+- 📧 [giovanioliveira@outlook.com.br](mailto:giovanioliveira@outlook.com.br?subject=[GitHub]%20Source%20Han%20Sans)
 
 ---
 
 <p align="center">
-    <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+    <img align="center" src="https://i.imgur.com/hBCukT2.gif" />
 </p>
