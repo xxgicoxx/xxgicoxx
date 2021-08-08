@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Giovani 🤓💻☕ </h1>
 
-<h2 align="center">I'm a Full-Stack Developer</h2> <br/>
+<h3 align="center">I'm a Full-Stack Developer</h3> <br/>
 
 <p align="center"> 
     <a href="https://www.linkedin.com/in/giovani-henrique-462315117/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Giovani_de_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovani-henrique-462315117/"></a>
