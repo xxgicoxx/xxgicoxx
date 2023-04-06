@@ -12,6 +12,7 @@
 ### 🧰 Languages and Frameworks
 
 - 🔴 Java
+- 🟣 Kotlin
 - 🟢 Node.js
 - 🟡 Javascript
 - ⚫ Vue.js
@@ -20,9 +21,9 @@
 
 ### 📜 I'm Currently
 
-- 👨‍💻 Full Stack Developer.
-- ☕ Working with Java, Node.js and Ionic.
-- 📚 Learning Go.
+- 👨‍💻 Back End Developer.
+- ☕ Working with Java.
+- 📚 Learning Kotlin.
 
 ### 🏃‍♂️ Hobbies
 
